@@ -1,0 +1,38 @@
+{
+    "background_colour": "ffeff1f5",
+    "border_colour": "ff4c4f69",
+    "buttons": {
+        "hover": {
+            "background": "ffdce0e8",
+            "border": "ff4c4f69"
+        },
+        "normal": {
+            "background": "ffe6e9ef",
+            "border": "ff4c4f69"
+        },
+        "pressed": {
+            "background": "ffccd0da",
+            "border": "ff4c4f69"
+        }
+    },
+    "cards": {
+        "common": {
+            "normal": "ffe6e9ef"
+        },
+        "nohammer": {
+            "normal": "ffdde3f2"
+        },
+        "nosac": {
+            "normal": "ffd8e2ec"
+        },
+        "rare": {
+            "normal": "ffdce0e8"
+        },
+        "rns": {
+            "normal": "ffe3e9f3"
+        }
+    },
+    "edit_background_colour": "ffeff1f5",
+    "pixart_colour": "ff4c4f69",
+    "text_colour": "ff4c4f69"
+}
